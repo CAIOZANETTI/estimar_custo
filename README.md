@@ -1,7 +1,3 @@
-Aqui está um exemplo de como você pode escrever um README para seu projeto Python no GitHub:
-
----
-
 # Projeto de Análise de Planilha para Estimativa de Custos
 
 Este é um projeto Python para analisar planilhas de custos e gerar uma estimativa de custos. O objetivo é fornecer uma maneira eficiente de analisar dados de custos em planilhas, normalizar esses dados, identificar itens conhecidos e desconhecidos, atribuir apelidos aos itens conhecidos, calcular os custos estimados e gerar relatórios de análise.
